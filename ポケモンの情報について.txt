@@ -1,0 +1,2 @@
+ポケモンの情報を保持しているJSONファイルは別リポジトリ「Pokeinfo」内のファイル「pokemon.json」、
+画像ファイルは「pokemonfile」フォルダ内にあります。
